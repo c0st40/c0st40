@@ -1,24 +1,6 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  ░▒▓█  NEURAL LINK ESTABLISHED // USER: c0st40  █▓▒░        ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FFF0&center=true&vCenter=true&width=500&lines=%2F%2F+INITIALIZING+SYSTEM...;%2F%2F+SCANNING+REPOSITORIES...;%2F%2F+MAPPING+LANGUAGE+MATRIX...;%2F%2F+ACCESS+GRANTED_%E2%96%AE)
-
-</div>
-
----
-
-<div align="center">
-
-```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  LANG_MAP // TOP LANGUAGES  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
