@@ -4,40 +4,12 @@
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  LANG_MAP // TOP LANGUAGES  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0st40&layout=compact&langs_count=8&theme=transparent&title_color=00fff0&text_color=00fff0&icon_color=ff006e&border_color=00fff0&bg_color=020813&hide_border=false&custom_title=//+LANGUAGE+MATRIX)](https://github.com/c0st40)
-
-</div>
-
----
-
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0st40&layout=compact&langs_count=8&title_color=00fff0&text_color=00fff0&icon_color=ff006e&border_color=00fff0&bg_color=020813&custom_title=//+LANGUAGE+MATRIX&hide_border=false&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SYSTEM_STATS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c0st40&show_icons=true&theme=transparent&title_color=ff006e&text_color=00fff0&icon_color=ffe600&border_color=ff006e&bg_color=020813&hide_border=false&custom_title=//+SYSTEM_STATS&include_all_commits=true&count_private=true)](https://github.com/c0st40)
-
-</div>
-
----
-
-<div align="center">
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ACTIVITY_STREAM // STREAK  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=c0st40&theme=transparent&hide_border=false&border=00FFF0&stroke=00FFF0&ring=FF006E&fire=FFE600&currStreakNum=00FFF0&sideNums=00FFF0&currStreakLabel=FF006E&sideLabels=00FFF099&dates=00FFF066&background=020813&font=Share+Tech+Mono)](https://github.com/c0st40)
-
-</div>
-
----
-
-<div align="center">
-
-```
-// EOF — DISCONNECT? [Y/N] _
-```
+<img src="https://github-readme-stats.vercel.app/api?username=c0st40&show_icons=true&theme=transparent&title_color=ff006e&text_color=00fff0&icon_color=ffe600&border_color=ff006e&bg_color=020813&hide_border=false&custom_title=//+SYSTEM_STATS&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 </div>
