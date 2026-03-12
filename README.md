@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0st40&layout=compact&langs_count=8&title_color=00fff0&text_color=00fff0&icon_color=ff006e&border_color=00fff0&bg_color=020813&custom_title=//+LANGUAGE+MATRIX&hide_border=false&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0st40&layout=compact&langs_count=8&title_color=00fff0&text_color=00fff0&icon_color=ff006e&border_color=00fff0&bg_color=020813&custom_title=//+LANGUAGES&hide_border=false&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 
 <br/>
 
