@@ -4,13 +4,7 @@
   // Daniel Costa &nbsp;|&nbsp; Bug Hunter · Service Desk Analyst · Brazil
 </h2>
 
-<!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c0st40&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&border_color=00ff9f&title_color=00ff9f&icon_color=ff2d78&text_color=cdd0e0&bg_color=0a0a0f" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c0st40&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&border_color=00ff9f&title_color=00ff9f&text_color=cdd0e0&bg_color=0a0a0f" height="150" alt="languages graph" />
-</div>
-
-###
+  ###
 
 <!-- Tech stack -->
 <div align="left">
