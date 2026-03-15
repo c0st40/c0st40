@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Daniel Costa and I'm a Bug Hunter | Service Desk Analyst, from Brazil.</h2>
+<h2 align="left">Hello World.</h2>
 
 ###
 
@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/dc-danielcosta/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:danielcostacm00@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
