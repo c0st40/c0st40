@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Header -->
 <h2 align="left" style="font-family:monospace;color:#00ff9f">
-  // Daniel Costa &nbsp;|&nbsp; Bug Hunter · Service Desk Analyst · Brazil
+  // Hello, World!
 </h2>
   
 <!-- Stats -->
