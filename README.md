@@ -3,7 +3,12 @@
 <h2 align="left" style="font-family:monospace;color:#00ff9f">
   // Daniel Costa &nbsp;|&nbsp; Bug Hunter · Service Desk Analyst · Brazil
 </h2>
-
+  
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c0st40&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&border_color=00ff9f&title_color=00ff9f&text_color=cdd0e0&bg_color=0a0a0f" height="150" alt="languages graph" />
+</div>
+  
   ###
 
 <!-- Tech stack -->
