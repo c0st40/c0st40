@@ -37,4 +37,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/c0st40/c0st40/output/snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/c0st40/c0st40/output/snake.svg" alt="Snake animation" />
