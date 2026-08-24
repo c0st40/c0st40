@@ -4,13 +4,6 @@
   // Hello, World!
 </h2>
   
-<!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c0st40&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&border_color=00ff9f&title_color=00ff9f&text_color=cdd0e0&bg_color=0a0a0f" height="150" alt="languages graph" />
-</div>
-  
-  ###
-
 <!-- Tech stack -->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
